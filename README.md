@@ -11,7 +11,7 @@
 -  **Organization :** Sailthru
 -  **Fact :** First solve the problem, then write the code :heart: 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=layzhi&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
