@@ -14,7 +14,8 @@
 -  **Fact :** Never stop challenging myself to do better 
 -  **Motto :** Fail fast, learn faster
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/fangzway/)
