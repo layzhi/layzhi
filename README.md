@@ -15,10 +15,8 @@
 -  **Motto :** Fail fast, learn faster
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi">
+<div>
+<img align="left" width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi">
 <img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true&count_private=true">
-
+</div>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/fangzway/)
