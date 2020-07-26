@@ -4,14 +4,15 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About
-<img align="right" width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true">
+<img align="right" width="49%" height="49%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true">
 
 -  **Current Role :** Application Security Engineer
 -  **Organization :** Sailthru
 -  **Learning :** Web Security, Web Development, Bug Bounty :zap: 	
 -  **Languages :** Python, Java, JavaScript, PHP 
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
+-  **Fact :** Never stop challenging myself to do better and always learn :heart:
+-  **Motto :** Fail fast, learn faster
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
