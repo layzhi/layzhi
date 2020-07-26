@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About
-<img align="right" width="49%" height="49%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true&count_private=true">
+
 
 -  **Current Role :** Application Security Engineer
 -  **Organization :** Sailthru
@@ -15,7 +15,10 @@
 -  **Motto :** Fail fast, learn faster
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img align="right" width="49%" height="49%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true&count_private=true">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/fangzway/)
