@@ -1,9 +1,10 @@
-### Hi I'm Z
+## Hi I'm Z
 [![](https://img.shields.io/badge/LinkedIn-fangzway-blue)](https://www.linkedin.com/in/fangzway/)
 [![](https://img.shields.io/badge/Gmail-fang.zway%40gmail.com-red)](mailto:fang.zway@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+## About
+<img align="right" width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true">
 
 -  **Current Role :** Application Security Engineer
 -  **Organization :** Sailthru
@@ -12,7 +13,6 @@
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
