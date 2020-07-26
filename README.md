@@ -16,7 +16,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
-<img align="left" width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi">
-<img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true&count_private=true">
+  <img align="left" width="45%" height="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi">
+  <img align="right" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true&count_private=true">
 </div>
 
