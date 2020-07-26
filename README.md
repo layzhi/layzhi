@@ -11,7 +11,7 @@
 -  **Learning :** Web Security, Web Development, Bug Bounty :zap: 	
 -  **Languages :** Python, Java, JavaScript, PHP 
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
--  **Fact :** Never stop challenging myself to do better and always learn :heart:
+-  **Fact :** Never stop challenging myself to do better 
 -  **Motto :** Fail fast, learn faster
 
 
