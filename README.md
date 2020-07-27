@@ -17,6 +17,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img align="left" width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi&layout=compact">
-  <img align="right" width="62%" height="62%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true&count_private=true">
+  <img align="right" width="60%" height="60%" src="https://github-readme-stats.vercel.app/api?username=Layzhi&show_icons=true&count_private=true">
 </div>
 
