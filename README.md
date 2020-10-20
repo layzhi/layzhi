@@ -6,8 +6,8 @@
 ## About
 
 
--  **Current Role :** Application Security Engineer
--  **Organization :** Sailthru
+-  **Current Role :** Security Engineer, Dropbox
+-  **Organization :** Dropbox
 -  **Learning :** Web Security, Web Development, Bug Bounty :zap: 	
 -  **Languages :** Python, Java, JavaScript, PHP 
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
