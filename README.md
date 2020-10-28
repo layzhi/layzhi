@@ -7,7 +7,8 @@
 
 
 -  **Current Role :** Security Engineer, HelloSign
--  **Organization :** Dropbox
+-  **Current Organization :** Dropbox
+-  **Past Organization :** Sailthru, Veracode
 -  **Learning :** Web Security, Web Development, Bug Bounty :zap: 	
 -  **Languages :** Python, Java, JavaScript, PHP 
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
