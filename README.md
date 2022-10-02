@@ -6,8 +6,8 @@
 ## About
 
 
--  **Current Role / Organization :** Security Engineer, HelloSign @ Dropbox
--  **Previous Organizations :** Sailthru, Veracode
+-  **Current Role / Organization :** Lead Product Security Engineer, Marqeta
+-  **Previous Organizations :** Dropbox, Sailthru, Veracode
 -  **Learning :** Web Security, Web Development, Bug Bounty :zap: 	
 -  **Languages :** Python, Java, JavaScript, PHP 
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
