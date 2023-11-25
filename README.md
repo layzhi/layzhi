@@ -6,10 +6,10 @@
 ## About
 
 
--  **Current Role / Organization :** Lead Product Security Engineer, Marqeta
+-  **Current Role / Organization :** Staff Product Security Engineer, Marqeta
 -  **Previous Organizations :** Dropbox, Sailthru, Veracode
--  **Learning :** Web Security, Web Development, Bug Bounty :zap: 	
--  **Languages :** Python, Java, JavaScript, PHP 
+-  **Learning :** Web Security, Web Development, Application Security, Bug Bounty :zap: 	
+-  **Languages :** Python, JavaScript ,Java, GO, PHP 
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
 -  **Fact :** Never stop challenging myself to do better 
 -  **Motto :** Fail fast, learn faster
