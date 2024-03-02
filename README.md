@@ -6,7 +6,7 @@
 ## About
 
 
--  **Current Role / Organization :** Staff Product Security Engineer, Marqeta
+-  **Current Role / Organization :** Senior Staff Product Security Engineer, Marqeta
 -  **Previous Organizations :** Dropbox, Sailthru, Veracode
 -  **Learning :** Web Security, Web Development, Application Security, Bug Bounty :zap: 	
 -  **Languages :** Python, JavaScript, Java, GO, PHP 
