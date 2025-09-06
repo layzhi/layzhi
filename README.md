@@ -8,7 +8,7 @@
 
 -  **Current Role :** Security Engineer
 -  **Previous Organizations :** Marqeta, Dropbox, Sailthru, Veracode
--  **Learning :** Web Security, Web Development, Application Security, Bug Bounty :zap: 	
+-  **Learning :** AI Security, Web Security, Web Development, Application Security, Bug Bounty :zap: 	
 -  **Languages :** Python, JavaScript, Java, GO, PHP 
 -  **Hobbies :** Weight Training, Photography, Gaming :headphones:
 -  **Fact :** Never stop challenging myself to do better 
